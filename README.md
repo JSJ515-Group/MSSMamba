@@ -108,10 +108,9 @@ Taking the Synapse dataset as an example.
 
 ## Quick Overview
 
-![](README_md_files/eb67d630-83b7-11f0-97b0-512c6619f47c.jpeg?v=1\&type=image)
+![](img/img3.png)
 
 ## Visualization results on datasets
 
-![](README_md_files/6d5e2340-83c4-11f0-91b0-132a678481db.jpeg?v=1\&type=image)
-
-![](README_md_files/78715f90-83c4-11f0-91b0-132a678481db.jpeg?v=1\&type=image)
+![](img/img1.jpg)
+![](img/img2.jpg)
